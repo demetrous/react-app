@@ -1,0 +1,6 @@
+GET https://jsonplaceholder.typicode.com/posts
+
+###
+
+
+GET http://ia-msiis-wsd-01.ad.unlv.edu/dotnetapp/api/dcandidate
